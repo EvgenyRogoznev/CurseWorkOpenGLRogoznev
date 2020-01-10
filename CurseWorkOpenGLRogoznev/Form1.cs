@@ -16,7 +16,7 @@ namespace CurseWorkOpenGLRogoznev
     public partial class Form1 : Form
     {
         double a = 0, b = 0, c = -5, d = 0, zoom = 1, Xcam=0, Ycam=0, Zkam=0, Xpoint=0, Ypoint=0, Zpoint=-5;
-        int vanishingPointOX = 1, vanishingPointOY = 1, os_x = 1, os_y = 0, os_z = 0;
+        int vanishingPointOX = 1, vanishingPointOY = 1;
 
         private void W(object sender, KeyEventArgs e)
         {
